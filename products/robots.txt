@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://ftp.rotherleague.org.uk/products/sitemap.xml
